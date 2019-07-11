@@ -1,2 +1,3 @@
 NAME :J.Vaishalini
-FATHER'S NAME:jagadeesan
+FATHER'S NAME:jagadeesan 
+DOB:25.06.2000
